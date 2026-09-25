@@ -50,7 +50,7 @@ Document encryption (PDF, ZIP, MS Office) relies on password-derived hashes rath
 ### Proof of Access
 Entering `password1` successfully decrypted the target PDF and exposed the internal flag content.
 
-<!-- Upload Unlocked Document / Flag screenshot here -->
+<https://github.com/advocals/Password-Cracking-Cryptographic-Hash-Extraction/blob/main/Screenshot%20(433).png>
 
 ---
 
