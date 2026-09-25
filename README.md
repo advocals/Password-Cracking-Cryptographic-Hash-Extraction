@@ -37,7 +37,7 @@ Document encryption (PDF, ZIP, MS Office) relies on password-derived hashes rath
 * Launched a dictionary attack using a built-in wordlist to compute matching hashes.
 * Successfully matched the hash to recover the cleartext key.
 
-<!-- Upload Password Cracker execution screenshot here -->
+<https://github.com/advocals/Password-Cracking-Cryptographic-Hash-Extraction/blob/main/Screenshot%20(431).png>
 
 ---
 
