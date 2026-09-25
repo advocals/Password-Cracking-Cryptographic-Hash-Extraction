@@ -30,7 +30,7 @@ Document encryption (PDF, ZIP, MS Office) relies on password-derived hashes rath
 * Uploaded `My Locked PDF1.pdf` to the Hash Calculator interface.
 * Parsed the encrypted metadata to generate the standard `$pdf$` hash string.
 
-<!-- Upload Hash Calculator screenshot here -->
+<https://github.com/advocals/Password-Cracking-Cryptographic-Hash-Extraction/blob/main/Screenshot%20(429).png>
 
 #### Phase 2: Hash Cracking & Verification
 * Copied the full extracted `$pdf$` hash into the Password Cracker engine.
